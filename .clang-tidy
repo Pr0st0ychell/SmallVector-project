@@ -1,0 +1,7 @@
+Checks: 'modernize-*'
+CheckOptions:
+  - key: modernize-use-override.ReplacementString
+    value: override
+WarningsAsErrors: ''
+FormatStyle: file
+HeaderFilterRegex: include/.*

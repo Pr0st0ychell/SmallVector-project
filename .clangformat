@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+PointerAlignment: Left
+Standard: Cpp17
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+KeepEmptyLinesAtTheStartOfBlocks: falseBasedOnStyle: LLVM
+PointerAlignment: Left
+Standard: Cpp17
+IndentWidth: 4
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+KeepEmptyLinesAtTheStartOfBlocks: false

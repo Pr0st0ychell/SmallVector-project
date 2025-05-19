@@ -1,0 +1,28 @@
+
+---
+
+###`.gitignore`
+
+```gitignore
+# Build directories
+build/
+cmake-build-debug/
+
+# Compiled files
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and coverage
+*.log
+*.gcda
+*.gcno
+*.info
